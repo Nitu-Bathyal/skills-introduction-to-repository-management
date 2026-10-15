@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Nitu-Bathyal
+/src/backend/database.py      @Nitu-Bathyal
+/src/backend/routers/auth.py  @Nitu-Bathyal
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Nitu-Bathyal
